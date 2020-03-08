@@ -1,4 +1,4 @@
-# corona_tracker
+# corona Count
 
 A new Flutter project.
 
